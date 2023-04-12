@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Freela",
+      "amount": 800
+    },
+    {
+      "name": "Salário",
+      "amount": 1200,
+      "id": 3
+    },
+    {
+      "name": "Conta de água",
+      "amount": -83,
+      "id": 4
+    },
+    {
+      "name": "Conta de luz",
+      "amount": -150,
+      "id": 5
+    },
+    {
+      "name": "Internet",
+      "amount": -98.99,
+      "id": 6
+    },
+    {
+      "name": "Ticket",
+      "amount": 301,
+      "id": 7
+    }
+  ]
+}
